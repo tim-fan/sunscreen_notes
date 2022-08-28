@@ -15,13 +15,14 @@ Main questions:
 Which frequencies are emitted from the sun, and make it through the atmosphere?
 
 --- 
-UV is generally divided into three sub-bands:
 
-* UVA, or near UV (315–400 nm)
-* UVB, or middle UV (280–315 nm)
-* UVC, or far UV (180–280 nm)
-
-No measurable UVC from solar radiation reaches the Earth's surface.
+> UV is generally divided into three sub-bands:
+> 
+> * UVA, or near UV (315–400 nm)
+> * UVB, or middle UV (280–315 nm)
+> * UVC, or far UV (180–280 nm)
+> 
+> No measurable UVC from solar radiation reaches the Earth's surface.
 
 https://www.livescience.com/50326-what-is-ultraviolet-light.html#:~:text=Ultraviolet%20(UV)%20light%20falls%20in,%C3%97%2010%E2%88%927%20inches).
 
@@ -42,7 +43,7 @@ Which frequencies cause skin damage?
 
 --- 
 
-UVB rays are more efficient in causing erythema. On the other hand, the absolute amount of UVA-I (340–400 nm) radiation is much higher than UVA-II (320–340 nm) and UVB (290–320 nm). Therefore, UVA-I contributes substantially to erythema. Multiplication of the two curves leads to the erythemal effectiveness spectrum which spreads over the whole range of UV radiation.
+> UVB rays are more efficient in causing erythema. On the other hand, the absolute amount of UVA-I (340–400 nm) radiation is much higher than UVA-II (320–340 nm) and UVB (290–320 nm). Therefore, UVA-I contributes substantially to erythema. Multiplication of the two curves leads to the erythemal effectiveness spectrum which spreads over the whole range of UV radiation.
 
 ![phpp12112-fig-0002-m.png](images/phpp12112-fig-0002-m.png)
 
@@ -57,7 +58,7 @@ UVA penetrates deeper into the skin
 
 Carcinogenicity of UVA vs UVB:
 
-"UVA is generally far less carcinogenic than UVB radiation, it is present more abundantly in sunlight than UVB radiation (> 20 times radiant energy) and can, therefore, contribute appreciably to the carcinogenicity of sunlight."
+> Although UVA is generally far less carcinogenic than UVB radiation, it is present more abundantly in sunlight than UVB radiation (> 20 times radiant energy) and can, therefore, contribute appreciably to the carcinogenicity of sunlight."
 
 UVB causes direct photochemical damage to DNA, while UVA is absorbed by other molecules, for instance generating reactive oxygen species which damage DNA membranes.
 
