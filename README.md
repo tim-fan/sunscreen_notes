@@ -44,7 +44,7 @@ Which frequencies cause skin damage?
 
 UVB rays are more efficient in causing erythema. On the other hand, the absolute amount of UVA-I (340–400 nm) radiation is much higher than UVA-II (320–340 nm) and UVB (290–320 nm). Therefore, UVA-I contributes substantially to erythema. Multiplication of the two curves leads to the erythemal effectiveness spectrum which spreads over the whole range of UV radiation.
 
-![](phpp12112-fig-0002-m.png)
+![phpp12112-fig-0002-m.png](images/phpp12112-fig-0002-m.png)
 
 https://onlinelibrary.wiley.com/doi/full/10.1111/phpp.12112
 
