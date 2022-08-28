@@ -118,7 +118,14 @@ Spectral responses of various UV filters from https://www.maxmax.com:
 
 ![xnite330_330c_uvr_1844084846.jpg](images/xnite330_330c_uvr_1844084846.jpg)
 
+Spectral output of maxmax XNiteFlashF Series 365nm illuminator:
+![flashf365.jpg](images/flashf365.jpg)
+
+It appears the above camera/illuminator combination will only be capable of imaging UVA. UVB imaging likely requires a more sophisticated setup.
+
 https://www.maxmax.com/shopper/product/15903-xniteusb2s-uv-usb-2-0-megapixel-hd-monochrome-camera-uv-only/category_pathway-9506
+
+https://www.maxmax.com/shopper/product/16003-xniteflashf-365-3w-xniteflashf-housing-with-a-365nm-3-watt-uv-led/category_pathway-9524
 
 ---
 
@@ -130,3 +137,16 @@ Off the top of my head, factors that affect UV sensitivity:
 * Image sensor: I presume different sensor types would have different sensitivities
 
 TODO: expand the above, support with sources.
+
+---
+
+## Conclusions
+
+* When using the camera indicated above:
+    * If using the 365nm illuminator in an otherwise dark room, then I expect only 365nm light to be observable.
+        * From the sunscreen absorbtion specra above, I expect sunscreen to be noticably dark at this wavelength, although the effect would probably be more pronounced with a setup for imaging down to 300 nm. 
+        * Look for sunscreens with more UVA filtering components for a more pronounced effect. Something zinc-oxide based would likely show up well.
+    * When in sunlight
+        * the longer UVA wavelengths will also be visible, however sunscreen absorbtion is typcially less at these wavelengths, so sunscreen will likely be less visible.
+        * Additionally IR leakage may be an issue reducing the visibility of sunscreen. Worth a try, but a better camera may be required for good results.
+
